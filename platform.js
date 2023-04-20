@@ -844,7 +844,7 @@
     ]);
 
     var manufacturer = getProduct([
-          { 'label': 'Asus', 'pattern': 'ASUS_I003D' },
+      { 'label': 'Asus', 'pattern': 'ASUS_I003D' },
       { 'label': 'Asus', 'pattern': 'ASUS_I005D' },
       { 'label': 'Asus', 'pattern': 'ASUS_I005DA' },
       { 'label': 'Asus', 'pattern': 'ASUS_I01WD' },
@@ -1249,7 +1249,7 @@
       { 'label': 'Xiaomi', 'pattern': 'Redmi Note 9 Pro' },
       { 'label': 'Xiaomi', 'pattern': 'Redmi Note 9S' },
       { 'label': 'Xiaomi', 'pattern': 'M2007J22G' },
-      });
+      ]);
 
     /* Detectable manufacturers. */
     var manufacturer = getManufacturer({
@@ -1260,7 +1260,7 @@
       'Asus': { 'Transformer': 1 },
       'Barnes & Noble': { 'Nook': 1 },
       'BlackBerry': { 'PlayBook': 1 },
-      'Google': { 'Google TV': 1, 'Nexus': 1 },
+      'Google': { 'Google TV': 1, 'Nexus': 1, 'Pixel': 1 },
       'HP': { 'TouchPad': 1 },
       'HTC': {},
       'Huawei': {},
