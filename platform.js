@@ -843,6 +843,32 @@
       'Xoom'
     ]);
 
+    /* Detectable manufacturers. */
+    var manufacturer = getManufacturer({
+      'Apple': { 'iPad': 1, 'iPhone': 1, 'iPod': 1 },
+      'Alcatel': {},
+      'Archos': {},
+      'Amazon': { 'Kindle': 1, 'Kindle Fire': 1 },
+      'Asus': { 'Transformer': 1 },
+      'Barnes & Noble': { 'Nook': 1 },
+      'BlackBerry': { 'PlayBook': 1 },
+      'Google': { 'Google TV': 1, 'Nexus': 1, 'Pixel': 1 },
+      'HP': { 'TouchPad': 1 },
+      'HTC': {},
+      'Huawei': {},
+      'Lenovo': {},
+      'LG': {},
+      'Microsoft': { 'Xbox': 1, 'Xbox One': 1 },
+      'Motorola': { 'Xoom': 1 },
+      'Nintendo': { 'Wii U': 1,  'Wii': 1 },
+      'Nokia': { 'Lumia': 1 },
+      'Oppo': {},
+      'Samsung': { 'Galaxy S': 1, 'Galaxy S2': 1, 'Galaxy S3': 1, 'Galaxy S4': 1 },
+      'Sony': { 'PlayStation': 1, 'PlayStation Vita': 1 },
+      'Xiaomi': { 'Mi': 1, 'Redmi': 1 }
+    });
+
+    /* Detectable 2 manufacturers. */
     var manufacturer = getProduct([
       { 'label': 'Asus', 'pattern': 'ASUS_I003D' },
       { 'label': 'Asus', 'pattern': 'ASUS_I005D' },
@@ -1249,32 +1275,8 @@
       { 'label': 'Xiaomi', 'pattern': 'Redmi Note 9 Pro' },
       { 'label': 'Xiaomi', 'pattern': 'Redmi Note 9S' },
       { 'label': 'Xiaomi', 'pattern': 'M2007J22G' },
-      ]);
 
-    /* Detectable manufacturers. */
-    var manufacturer = getManufacturer({
-      'Apple': { 'iPad': 1, 'iPhone': 1, 'iPod': 1 },
-      'Alcatel': {},
-      'Archos': {},
-      'Amazon': { 'Kindle': 1, 'Kindle Fire': 1 },
-      'Asus': { 'Transformer': 1 },
-      'Barnes & Noble': { 'Nook': 1 },
-      'BlackBerry': { 'PlayBook': 1 },
-      'Google': { 'Google TV': 1, 'Nexus': 1, 'Pixel': 1 },
-      'HP': { 'TouchPad': 1 },
-      'HTC': {},
-      'Huawei': {},
-      'Lenovo': {},
-      'LG': {},
-      'Microsoft': { 'Xbox': 1, 'Xbox One': 1 },
-      'Motorola': { 'Xoom': 1 },
-      'Nintendo': { 'Wii U': 1,  'Wii': 1 },
-      'Nokia': { 'Lumia': 1 },
-      'Oppo': {},
-      'Samsung': { 'Galaxy S': 1, 'Galaxy S2': 1, 'Galaxy S3': 1, 'Galaxy S4': 1 },
-      'Sony': { 'PlayStation': 1, 'PlayStation Vita': 1 },
-      'Xiaomi': { 'Mi': 1, 'Redmi': 1 }
-    });
+	]);
 
     /* Detectable operating systems (order is important). */
     var os = getOS([
