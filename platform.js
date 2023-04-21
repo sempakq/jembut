@@ -1,8 +1,8 @@
 /*!
  * Platform.js
- * Copyright 2014-2020 Benjamin Tan
- * Copyright 2011-2013 John-David Dalton
- * Available under MIT license
+ * Copyright by Mulda Janu
+ * https://facebook.com/muldajanu
+ * 081279999911
  */
 ;(function() {
   'use strict';
@@ -1332,7 +1332,8 @@
       { 'label': 'Xiaomi', 'pattern': 'Redmi Note 9 Pro' },
       { 'label': 'Xiaomi', 'pattern': 'Redmi Note 9S' },
       { 'label': 'Xiaomi', 'pattern': 'M2007J22G' },
-
+      { 'label': 'Apple', 'pattern': 'iPhone' },
+      { 'label': 'Apple', 'pattern': 'iPad' },
     ]);
 
     /* Detectable operating systems (order is important). */
