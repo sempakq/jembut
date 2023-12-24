@@ -1,17 +1,28 @@
-Galaxy Tab S5e LTE Fb 85.127.289 [Tablet Facebook *******]: Mozilla/5.0 (Linux; Android 9; SM-T725 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Safari/537.36 [FB_IAB/FB4A;FBAV/289.0.0.40.121;]
-Galaxy Tab S4 10.5 WIFI Fb 85.127.289 [Tablet Facebook *******]: Mozilla/5.0 (Linux; Android 9; SM-T830 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Safari/537.36 [FB_IAB/FB4A;FBAV/289.0.0.40.121;]
-Galaxy Tab S4 10.5 LTE Fb 85.127.289 [Tablet Facebook *******]: Mozilla/5.0 (Linux; Android 9; SM-T835 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Safari/537.36 [FB_IAB/FB4A;FBAV/289.0.0.40.121;]
-Galaxy Tab A 10.1 WIFI Fb 85.127.289 [Tablet Facebook *******]: Mozilla/5.0 (Linux; Android 9; SM-T510 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Safari/537.36 [FB_IAB/FB4A;FBAV/289.0.0.40.121;]
-Galaxy Tab A 10.1 LTE Fb 85.127.289 [Tablet Facebook *******]: Mozilla/5.0 (Linux; Android 9; SM-T515 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Safari/537.36 [FB_IAB/FB4A;FBAV/289.0.0.40.121;]
-Galaxy Tab A 8.0 WIFI Fb 85.127.289 [Tablet Facebook *******]: Mozilla/5.0 (Linux; Android 9; SM-T290 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Safari/537.36 [FB_IAB/FB4A;FBAV/289.0.0.40.121;]
-Galaxy Tab A 8.0 LTE Fb 85.127.289 [Tablet Facebook *******]: Mozilla/5.0 (Linux; Android 9; SM-T295 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Safari/537.36 [FB_IAB/FB4A;FBAV/289.0.0.40.121;]
-Galaxy Tab A 10.5 WIFI Fb 85.127.289 [Tablet Facebook *******]: Mozilla/5.0 (Linux; Android 9; SM-T590 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Safari/537.36 [FB_IAB/FB4A;FBAV/289.0.0.40.121;]
-Galaxy Tab A 10.5 LTE Fb 85.127.289 [Tablet Facebook *******]: Mozilla/5.0 (Linux; Android 9; SM-T595 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Safari/537.36 [FB_IAB/FB4A;FBAV/289.0.0.40.121;]
-Galaxy Tab Active Pro Fb 85.127.289 [Tablet Facebook *******]: Mozilla/5.0 (Linux; Android 9; SM-T545 Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/85.0.4183.127 Safari/537.36 [FB_IAB/FB4A;FBAV/289.0.0.40.121;]
-Mac Catalina x Sfr 14.0 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
-Mac Catalina x Sfr 14.0 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
-Mac Catalina x Sfr 14.0 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
-Mac Catalina x Sfr 14.0 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
-Mac Catalina x Sfr 14.0 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
-Mac Catalina x Sfr 14.0 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
-Mac Catalina x Sfr 14.0 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15
+Mac Catalina Sfr 13.0.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+Mac Mojave Sfr 13.0.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+Mac HighSierra Sfr 13.0.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15
+Mac Catalina Sfr 13.0.2 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15
+Mac Mojave Sfr 13.0.2 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15
+Mac HighSierra Sfr 13.0.2 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15
+Mac Catalina Sfr 13.0.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15
+Mac Mojave Sfr 13.0.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15
+Mac HighSierra Sfr 13.0.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Safari/605.1.15
+Win10 x Chr 86.198 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Win10 x Chr 86.198 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Win10 x Chr 86.198 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Win10 x Chr 86.198 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Win10 x Chr 86.198 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Win10 x Chr 86.198 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Win10 x Chr 86.198 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Win10 x Chr 86.198 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36
+Win10 x Chr 86.193 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+Win10 x Chr 86.193 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+Win10 x Chr 86.193 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+Win10 x Chr 86.193 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+Win10 x Chr 86.193 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36
+Win10 x Chr 86.183 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+Win10 x Chr 86.183 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+Win10 x Chr 86.183 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36
+Win10 x Chr 86.111 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Win10 x Chr 86.111 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36
+Win10 x Chr 86.75 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
